@@ -6,7 +6,7 @@ target 'MicroChat-ios' do
   use_frameworks!
 
   # Pods for MicroChat-ios
-  pod 'SnapKit', '~> 4.2.0'
-  pod 'ReactiveCocoa', '~> 9.0.0'
+#  pod 'SnapKit', '~> 4.2.0'
+#  pod 'ReactiveCocoa', '~> 9.0.0'
 
 end
